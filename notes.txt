@@ -1,0 +1,16 @@
+https://developers.google.com/maps/documentation
+
+couple of high-level ideas: 
+- scenic route app
+    - app that takes different routes and their street view to calculate the most scenic route to take
+- unity integration with street view
+    - will generate 3d models of the street view at certain locations
+    - could possible idenity buildings as well
+- algorithm to create the best route for multiple destinations
+    - already a thing
+    - alt idea: 
+        - algorithm to calculate best places to stop on the way to destination
+
+api key:
+AIzaSyCkHvATu8Vj574Ev1PKIRv4NUSH0UMneQw
+    

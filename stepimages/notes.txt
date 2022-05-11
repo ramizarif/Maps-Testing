@@ -1,0 +1,1 @@
+all images in this directory are obtained through the script and google street view api
