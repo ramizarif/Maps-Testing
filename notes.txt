@@ -10,7 +10,4 @@ couple of high-level ideas:
     - already a thing
     - alt idea: 
         - algorithm to calculate best places to stop on the way to destination
-
-api key:
-AIzaSyCkHvATu8Vj574Ev1PKIRv4NUSH0UMneQw
     
